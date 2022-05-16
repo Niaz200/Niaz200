@@ -9,7 +9,7 @@ A full time Web design & Web developer
 
 
 
-![Profile views](https://gpvc.arturio.dev/Niaz963) 
+![Profile views](https://gpvc.arturio.dev/Niaz200) 
 
 <br/>
 
@@ -92,11 +92,11 @@ A full time Web design & Web developer
    <!-- github stats starts here  -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaz963&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niaz200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz963)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz200)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz963&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Niaz200&show_icons=true)
 
 <br/>
 
@@ -177,11 +177,9 @@ All rights reserved by MD. Abu Bakar Siddique @2022
 
 <!-- Links section starts here -->
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
 [facebook]: https://www.facebook.com/arif.islam.7921975/
 [linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
+[github]: https://github.com/Niaz963
 
 
 
