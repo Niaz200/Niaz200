@@ -163,7 +163,7 @@ A full time Web design & Web developer
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► niaz_ece@yahoo.com
 
 ---
 
@@ -177,8 +177,8 @@ All rights reserved by MD. Abu Bakar Siddique @2022
 <!-- Links section starts here -->
 
 [facebook]: https://www.facebook.com/arif.islam.7921975/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/Niaz963
+[linkedin]: https://www.linkedin.com/in/md-abu-bakar-siddique-niaz-9833622a/
+[github]: https://github.com/Niaz200
 
 
 
