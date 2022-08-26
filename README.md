@@ -163,7 +163,7 @@ A full time Web design & Web developer
 
 
 ## 📧 For Business Inquiries 
-✅  ► niaz_ece@yahoo.com
+✅  ► niaz_ece2@yahoo.com
 
 ---
 
