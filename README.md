@@ -104,9 +104,16 @@ A full time Web design & Web developer
 
 
 <!-- other skills and my videos for computer science section starts here  -->
+
+<!-- My project history starts here  -->
+
 ### 🖥 &nbsp; My project History
 - Invenrory Management With Pos
 - Blog Project
+
+<!--  My project history ends here  -->
+
+<br />
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
