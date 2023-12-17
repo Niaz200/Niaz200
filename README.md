@@ -120,6 +120,7 @@ A full time Web design & Web developer
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Software Engineer        | Alpha Commerz Ltd.<br/>(php & laravel,Yii)      | July,2023 to Till now | Dhanmondi, Bangladesh  |
 | Web Developer        | Classic It & Sky Mart Ltd.<br/>(php & laravel)      | December,2022 to February,2023 | Uttara, Bangladesh  |
 | IT Executive        | Star Paradise Ltd.<br/>(Hardware and Network Engineer)      | December 2016 to June 2019 | Banani, Bangladesh  |
 | IT Executive        | Cloud Systems Limited<br/>  (Hardware and Network Engineer) | May 2016 to November 2016   | Kuril Road, Bangladesh  |
