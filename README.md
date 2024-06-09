@@ -127,6 +127,22 @@ A full time Web design & Web developer
 
 
 
+<br />
+<!-- Training /Courses section starts here  -->
+
+### 💼 &nbsp; Training /Courses History
+
+| Course Name                        | Topic                                   | Institute                       | Duration           |
+| ---------------------------------- | ------------------------------------------- | --------------------------- | ------------------ |
+| Web Development With PHP & Laravel | PHP & Laravel                               | Ostad(Gulshan-2), (Batch-2) | ongoing            |
+| Web Development                    | PHP, MySQL, Laravel            | Belancer (under LICT project of BCC, ICT Division) | 60 hours  |
+| Web design & Development        | HTML, CSS, Bootstrap, MySQL, PHP, JavaScript, jQuery     | CSL Training, Dhanmondi. | 84 hours  |
+| LINUX <br/> (RHCSA,RHCE) | Red Hat Linux System Administration and Engineer. |CSL Training, Dhanmondi.  | 60 hours  |
+|CCNA        | Cisco Certified Network Associate. |CSL Training, Dhanmondi.  | 60 hours  |
+| MCSA       | Microsoft Certified Solutions Associate. |CSL Training, Dhanmondi.  | 60 hours  |
+
+
+
 
 <br />
 <!-- work experience section ends here  -->
