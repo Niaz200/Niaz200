@@ -108,8 +108,10 @@ A full time Web design & Web developer
 <!-- My project history starts here  -->
 
 ### 🖥 &nbsp; My project History
+- Job site
 - Invenrory Management With Pos
 - Blog Project
+- E-Commerce
 
 <!--  My project history ends here  -->
 
