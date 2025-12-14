@@ -44,8 +44,10 @@ A full time Web design & Web developer
 
 <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
 <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwindcss-logotype.svg" />
 <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.svg" />
 <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="React" title="React" width="45" hspace="5" src="./images/reactjs_logo_icon_170805.svg" />
 <img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
 <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
 <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />
